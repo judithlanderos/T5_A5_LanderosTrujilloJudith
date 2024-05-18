@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">T5_A5_LanderoTrujlloJudith</string>
+        <string-array name="temperaturas">
+            <item>Fahrenheit</item>
+            <item>Celsius</item>
+            <item>Rankine</item>
+            <item>Kelvin</item>
+        </string-array>
+
+</resources>
